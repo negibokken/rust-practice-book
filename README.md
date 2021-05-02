@@ -1,0 +1,2 @@
+# Rust book practice
+
